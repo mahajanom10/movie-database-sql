@@ -1,4 +1,5 @@
 CREATE DATABASE imdb;
+USE imdb;
 -- 1.Top 10 highest rated movies (with at least 1000 votes)
 SELECT * FROM imdb.imdb_cleaned WHERE no_of_votes >= 1000
 ORDER BY imdb_rating desc
