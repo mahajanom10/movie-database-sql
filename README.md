@@ -55,7 +55,6 @@ movie-database-sql/
 1. Clone this repository  
 2. Import the CSV into MySQL using your preferred method  
 3. Run the SQL queries in `sql/movie_analysis.sql`  
-4. (Optional) Use Python or Power BI for visualization
 
 ---
 
